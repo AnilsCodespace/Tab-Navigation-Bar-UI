@@ -1,6 +1,8 @@
 # tabnavbarassign
 
 Tab bar Bottom Bar assignment
+![image](https://user-images.githubusercontent.com/87460435/200154924-628a8d1e-06cf-4993-89dc-9914e67779fd.png)
+
 
 ## Getting Started
 
